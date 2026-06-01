@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Carlos Ponce Santana
 
-<!--
-**CarlosPSantana/CarlosPSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Developer | DAM Graduate
 
-Here are some ideas to get you started:
+I'm a software developer from Spain who recently completed a Higher Degree in Multiplatform Application Development (DAM).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects, learning new technologies, and improving my skills through practical development.
+
+## 🚀 About me
+
+- 🎓 Graduate in Multiplatform Application Development (DAM)
+- 💻 Interested in software development and backend technologies
+- 🎮 Developed a complete 2D videogame as my final degree project
+- 🌱 Currently improving my skills in Java, Spring Boot and modern development tools
+
+
+## 🛠️ Technologies
+
+### Languages
+- Java
+- C#
+- JavaScript
+- SQL
+
+### Tools & Frameworks
+- Unity
+- Git & GitHub
+- MySQL
+- HTML & CSS
+
+
+## 📌 Featured Projects
+
+### 🎮 2D Videogame - Final Degree Project
+
+A complete videogame developed with Unity and C#, featuring:
+
+- Multiple levels
+- Player mechanics
+- Enemy systems
+- User interface
+- Game progression
+
+(Repository coming soon)
+
+
+## 📫 Contact
+
+- GitHub: CarlosPSantana
+- LinkedIn: Coming soon
