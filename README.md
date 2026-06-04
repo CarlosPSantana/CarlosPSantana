@@ -37,17 +37,23 @@ I enjoy building projects, learning new technologies, and improving my skills th
 
 ## 📌 Featured Projects
 
-### 🎮 2D Videogame - Final Degree Project
+### ⚔️ Ashes of Myrkul
 
-A complete videogame developed with Unity and C#, featuring:
+A 2D gothic medieval metroidvania developed with Unity and C#.
 
-- Multiple levels
-- Player mechanics
-- Enemy systems
-- User interface
-- Game progression
+Main features:
 
-(Repository coming soon)
+- 🗺️ 5 playable levels
+- ⚔️ Combat system
+- 👹 Enemy behaviour
+- 💬 NPC dialogue system
+- 📜 Quest system
+- 🎒 Inventory system
+- 💾 Save & load system using persistent data
+- 🗄️ SQLite database integration
+
+🔗 Repository:
+https://github.com/CarlosPSantana/ashes-of-myrkul
 
 
 ## 📫 Contact
