@@ -56,6 +56,13 @@ Main features:
 https://github.com/CarlosPSantana/ashes-of-myrkul
 
 
+## 📊 GitHub Stats
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPSantana&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPSantana&layout=compact&theme=dark)
+
+
 ## 📫 Contact
 
 - GitHub: CarlosPSantana
